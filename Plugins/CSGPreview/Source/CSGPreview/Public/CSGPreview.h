@@ -20,6 +20,8 @@ public:
 	void PluginButtonClicked();
 	
 private:
+	UPROPERTY(BlueprintReadWrite)
+	bool EnablePPLL = false;
 
 	void RegisterMenus();
 

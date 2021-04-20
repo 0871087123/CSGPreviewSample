@@ -4,7 +4,7 @@
 	"VersionName": "1.0",
 	"FriendlyName": "CSGPreview",
 	"Description": "Preview CSG result via per pixel linked list.",
-	"Category": "Other",
+	"Category": "Sandbox",
 	"CreatedBy": "Kent",
 	"CreatedByURL": "",
 	"DocsURL": "",
@@ -18,7 +18,7 @@
 		{
 			"Name": "CSGPreview",
 			"Type": "Editor",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "PostConfigInit"
 		}
 	]
 }
