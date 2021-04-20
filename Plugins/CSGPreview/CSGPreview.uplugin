@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CSGPreview",
+	"Description": "Preview CSG result via per pixel linked list.",
+	"Category": "Other",
+	"CreatedBy": "Kent",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CSGPreview",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
